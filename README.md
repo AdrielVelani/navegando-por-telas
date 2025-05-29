@@ -11,7 +11,7 @@ Este é um app com navegação entre telas utilizando `expo-router` com Expo.
 ## Desenvolvedor
 
 **Adriel Velani**  
-E-mail: adriel.velani@email.com  
+E-mail: adriel.velani@gmail.com  
 GitHub: [github.com/adrielvelani](https://github.com/adrielvelani)
 
 ## Como executar
