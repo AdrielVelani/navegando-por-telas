@@ -23,4 +23,4 @@ npx expo start
 
 ## Captura de Tela
 
-![App rodando](Captura de tela 2025-05-29 194648.png)
+![Tela de Detalhes do App](./Captura%20de%20tela%202025-05-29%20194648.png)
