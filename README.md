@@ -23,4 +23,4 @@ npx expo start
 
 ## Captura de Tela
 
-> Insira aqui um print do app rodando.
+![App rodando](Captura de tela 2025-05-29 194648.png)
